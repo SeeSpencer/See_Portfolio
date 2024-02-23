@@ -4,11 +4,11 @@ Portfolio Displaying Data Analysis and R projects
 work in progress migrating various projects to my personal github and anonymizing required data
 estimated date of completion: march 3rd 2024
 
-## [Ultrinity: Geocoding and Data Enhancments](https://github.com/SeeSpencer/Ultrinity_SpatialEnrichment)
+## [Ultrinity: Geocoding and Data Enhancments as Spatial Programmer for "Turf Cutting" Tool Prototype](https://github.com/SeeSpencer/Ultrinity_SpatialEnrichment)
 
 
 
-## [Ohio Emergency Management Agency: Data Preparation and Analysis](https://github.com/SeeSpencer/OEMA_DataPreparationAndAnalysis)
+## [Ohio Emergency Management Agency: Data Preparation and Analysis for State Hazard Mitigation Plan 2024](https://github.com/SeeSpencer/OEMA_DataPreparationAndAnalysis)
 
 
 
