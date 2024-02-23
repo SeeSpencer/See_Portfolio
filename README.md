@@ -13,3 +13,5 @@ estimated date of completion: march 3rd 2024
 
 
 ## [Comprehensive City and Regional Planning Studio: County Wide Current Use Plan Generation from CAMA Data](https://github.com/SeeSpencer/ComprehensivePlanningStudio_CountyLandUsePlan)
+
+## [Dense Matter Landscape Architecture Studio: Earthen Architecture Historical Mapping](https://github.com/SeeSpencer/DenseMatterStudio_EarthenArchitectureHistoricalMapping)
