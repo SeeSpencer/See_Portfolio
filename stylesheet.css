@@ -2,6 +2,7 @@ Body {
   margin: auto;
   background: rgba(50,50,50);
   text-align: center;
+  outline: 4px solid white;
 }
 
 
