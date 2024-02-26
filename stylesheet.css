@@ -1,6 +1,5 @@
 Body {
   margin: auto;
-  padding: 60;
   background: rgba(50,50,50);
   text-align: center;
 }
@@ -9,7 +8,7 @@ Body {
 h1 {
   color: white;
   text-align: center;
-  margin: 10;
+  width: 90%;
 }
 
 h2 {
@@ -25,7 +24,6 @@ h3 {
 p {
   color: rgba(213,213,212);
   text-align: center;
-  margin: 60;
 }
 
 img {
