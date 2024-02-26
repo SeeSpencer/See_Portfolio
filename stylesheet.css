@@ -5,13 +5,24 @@ Body {
     outline: 4px solid white;
 }
 
-@media only screen and (min-device-width: 1200px) {
+@media only screen and (min-device-width: 1200px) and (max-device-width: 1800px) {
     Body {
       margin: 0 auto;
       background: rgba(50,50,50);
       text-align: center;
       outline: 4px solid rgba(55,55,55);
-      max-width: 80%; !important
+      max-width: 1000px; !important
+      min-width: 700px;!important
+    }
+}
+
+@media only screen and (min-device-width: 2001px) {
+    Body {
+      margin: 0 auto;
+      background: rgba(50,50,50);
+      text-align: center;
+      outline: 6px solid rgba(55,55,55);
+      max-width: 2000px; !important
       min-width: 1200px;!important
     }
 }
