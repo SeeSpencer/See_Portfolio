@@ -1,11 +1,11 @@
 Body {
   margin: 0;
-  background: #333333;
+  background: rgba(50,50,50);
   text-align: center;
 }
 
 h1 {
-  color: #cccccc;
+  color: rgba(213,213,212);
 }
 
 h2 {
