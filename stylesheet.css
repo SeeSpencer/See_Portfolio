@@ -5,7 +5,7 @@ Body {
     outline: 4px solid white;
 }
 
-@media only screen and (min-device-width: 1200px) and (max-device-width: 1800px) {
+@media only screen and (min-device-width: 1200px) and (max-device-width: 1899px) {
     Body {
       margin: 0 auto;
       background: rgba(50,50,50);
@@ -16,7 +16,7 @@ Body {
     }
 }
 
-@media only screen and (min-device-width: 2001px) {
+@media only screen and (min-device-width: 1900px) {
     Body {
       margin: 0 auto;
       background: rgba(50,50,50);
