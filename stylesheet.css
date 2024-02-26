@@ -1,5 +1,5 @@
 Body {
-  margin: 30;
+  margin: 10;
   background: rgba(50,50,50);
   text-align: center;
 }
@@ -18,11 +18,15 @@ h3 {
 
 p {
   color: rgba(213,213,212);
+  padding: 60;
 }
 
 img {
   height: auto;
-  width: 80%;
-  padding: 30;
+  width: 100%;
+  padding-top: 40;
+  padding-bottom: 40;
+  padding-left: 60;
+  padding-right: 60;
   
 }
