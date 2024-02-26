@@ -9,6 +9,7 @@ Body {
 h1 {
   color: white;
   text-align: center;
+  margin: 10;
 }
 
 h2 {
@@ -24,6 +25,7 @@ h3 {
 p {
   color: rgba(213,213,212);
   text-align: center;
+  margin: 10;
 }
 
 img {
