@@ -22,8 +22,8 @@ Body {
       background: rgba(50,50,50);
       text-align: center;
       outline: 6px solid rgba(55,55,55);
-      max-width: 2000px; !important
-      min-width: 1200px;!important
+      max-width: 1700px; !important
+      min-width: 1000px;!important
     }
 }
 
