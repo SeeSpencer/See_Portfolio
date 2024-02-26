@@ -1,11 +1,11 @@
 Body {
   margin: 0;
-  background: black;
+  background: cmyk(70%, 63%, 62%, 59%);
   text-align: center;
 }
 
 h1 {
-  color: white;
+  color: cmyk(19%, 15%, 16%, 0%);
 }
 
 h2 {
