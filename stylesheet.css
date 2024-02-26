@@ -2,19 +2,27 @@ Body {
   margin: auto;
   padding: 60;
   background: rgba(50,50,50);
+}
+
+#DataAnalysisRPortfolio div{
+}
   text-align: center;
+
 }
 
 h1 {
   color: white;
+  text-align: center;
 }
 
 h2 {
   color: white;
+  text-align: center;
 }
 
 h3 {
   color: white;
+  text-align: center;
 }
 
 p {
