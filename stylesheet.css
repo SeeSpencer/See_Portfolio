@@ -1,5 +1,6 @@
 Body {
   margin: 10;
+  padding: 60;
   background: rgba(50,50,50);
   text-align: center;
 }
@@ -28,5 +29,4 @@ img {
   padding-bottom: 40;
   padding-left: 60;
   padding-right: 60;
-  
 }
