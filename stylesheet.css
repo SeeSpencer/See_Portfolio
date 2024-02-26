@@ -6,11 +6,11 @@ Body {
 }
 
 h1 {
-  color: rgba(213,213,212);
+  color: white;
 }
 
 h2 {
-  color: rgba(213,213,212);
+  color: white;
 }
 
 h3 {
@@ -18,7 +18,7 @@ h3 {
 }
 
 p {
-  color: white;
+  color: rgba(213,213,212);
   padding-block: 60;
   margin: 60;
 }
