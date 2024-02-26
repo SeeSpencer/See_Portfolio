@@ -20,8 +20,8 @@ p {
   color: white;
 }
 
-pic img {
+img {
   height: auto;
-  width: auto;
+  width: 100%;
   
 }
