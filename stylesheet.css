@@ -5,11 +5,11 @@ Body {
 }
 
 h1 {
-  color: rgba(213,213,212);
+  color: white;
 }
 
 h2 {
-  color: white;
+  color: rgba(213,213,212);
 }
 
 h3 {
