@@ -19,3 +19,9 @@ h3 {
 p {
   color: white;
 }
+
+pic img {
+  height: auto;
+  width: auto;
+  
+}
