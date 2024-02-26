@@ -20,17 +20,12 @@ h3 {
 p {
   display: block;
   color: rgba(213,213,212);
-  padding-block: 60;
-  margin: 60;
-  width: 80%;
-  align-content: center;
+  text-align: left;
 }
 
 img {
   height: auto;
-  width: 80%;
+  width: 90%;
   padding-top: 40;
   padding-bottom: 40;
-  padding-left: 60;
-  padding-right: 60;
 }
