@@ -31,7 +31,7 @@ Body {
 h1 {
   color: white;
   text-align: center;
-  padding: 6% 1% 0% 1%;
+  padding: 6% 2% 0% 2%;
 }
 
 h2 {
@@ -58,4 +58,17 @@ img {
   min-height: 40%;
   margin-left: auto;
   margin-right: auto;
+}
+
+a:link {
+  color: white;
+  
+}
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  color: rgba(213,213,212);
 }
